@@ -1,0 +1,11 @@
+#searchzone{
+    background-color: beige;
+    border-radius: 5px;
+    width: 700px;
+    height: 25px;
+}
+
+#content{
+    display: flex;
+    height: 20px;
+}
